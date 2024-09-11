@@ -5,7 +5,7 @@
 In this article, we built a real-time data pipeline that grabs YouTube comments, processes and filters them with Flink, and then stores everything in MongoDB for deeper analysis. By adding MongoDB Charts to the mix, we turned the data into easy-to-understand, interactive dashboards that let us pull out valuable insights. This whole setup shows just how powerful real-time analytics can be, helping us keep tabs on and make sense of data as it flows through the system.
 
 ## Architecture 
-<img src="Diagram.jpg">
+<img src="Diagram.png">
 
 ## Simple Dashboard
 <img src="Dashboard.png">
